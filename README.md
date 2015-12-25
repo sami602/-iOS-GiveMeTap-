@@ -1,0 +1,2 @@
+# -iOS-GiveMeTap-
+I've been learning Swift for 7 days non-stop and here is my app (finishing a 490p ebook about iOS programming)This app have been done for an internship interview, it locates the user and print a list of all the nearby stores sorted by distance, when the user clicks on a store, he sees all the store detail and can show the location on a map. He can also click on the "Share" or the "Rate" button to see the some animations I've learned to do. To test the app, you have to add stores, the app will locate the store thanks to the address you've putted.
